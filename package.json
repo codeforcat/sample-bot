@@ -1,0 +1,18 @@
+{
+  "name": "sample-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bot-express": "^0.5.23",
+    "express": "^4.16.4",
+    "isemail": "^3.2.0",
+    "moji": "^0.5.1"
+  }
+}
